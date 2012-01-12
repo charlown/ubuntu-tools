@@ -1,0 +1,99 @@
+<?xml version = "1.0"?>
+
+<install_list>
+
+	<!--media tools,and so on with media-->
+	<media>
+		<!--flash plugin-->
+		<name>flashplugin-installer</name>
+		<!--mplayer-->
+		<name>gnome-mplayer</name>
+		<!--audacious2-->
+		<name>audacious2</name>
+		<!--moovida-->
+		<name>moovida</name>
+		<name>moovida-plugins-good</name>
+		<name>moovida-plugins-ugly</name>
+	</media>
+
+	<!--develop tools, and so on with develop-->
+	<develop>
+		<!--vi plus-->
+		<name>vim</name>
+		<name>vim-gtk</name>
+		<!--emacs23-->
+		<name>emacs23</name>
+		<name>emacs23-gtk</name>
+		<!--latex-->
+		<name>latex-cjk-chinese</name>
+		<name>hyperlatex</name>
+		<name>latex-beamer</name>
+		<name>texlive-fonts-extra</name>
+		<name>texlive-fonts-extra-doc</name>
+		<name>texlive-fonts-recommended</name>
+		<name>texlive-latex-extra</name>
+		<!--virtualbox-->
+		<name>virtualbox-ose</name>
+		<!--scm-->
+		<name>git-core</name>
+		<!--eclipse-->
+		<name>eclipse</name>
+		<!--serial-->
+		<name>ckermit</name>
+		<!--java6-jdk-->
+		<name>sun-java6-jdk</name>
+	</develop>
+
+	<!--system tools, and so on with system-->
+	<system>
+		<!--disk tools-->
+		<name>gparted</name>
+		<!--view command`s deb-->
+		<name>dpkg-dev</name>
+		<!--download tools-->
+		<name>wget</name>
+		<name>curl</name>
+		<!--nfs-->
+		<name>nfs-common</name>
+		<name>nfs-kernel-server</name>
+		<!--tftp-->
+		<name>tftp-hpa</name>
+		<!--unkonwn,some used to android-->
+		<name>automake</name>
+		<name>bison</name>
+		<name>build-essential</name>
+		<name>flex</name>
+		<name>gawk</name>
+		<name>get</name>
+		<name>gnupg</name>
+		<name>gperf</name>
+		<name>libaso</name>
+		<name>libasound2-doc</name>
+		<name>libbc6-dev</name>
+		<name>libgmp3-dev</name>
+		<name>libgtk2.0-dev</name>
+		<name>libl1-mesa-dev</name>
+		<name>libmpfr-dev</name>
+		<name>libmpc-dev</name>
+		<name>libncurses5-dev</name>
+		<name>libqt4-dev</name>
+		<name>libreadline6-dev</name>
+		<name>libsdl1.2-dev</name>
+		<name>libtool</name>
+		<name>libx11-dev</name>
+		<name>libxml2-utils</name>
+		<name>m4</name>
+		<name>patch</name>
+		<name>python-markdown</name>
+		<name>sed</name>
+		<name>texinfo</name>
+		<name>text</name>
+		<name>tofrodos</name>
+		<name>und2-dev</name>
+		<name>x11proto-core-dev</name>
+		<name>xsltproc</name>
+		<name>zlib1g-dev</name>
+		<name>zip</name>
+	</system>
+
+</install_list>

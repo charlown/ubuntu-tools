@@ -1,0 +1,3 @@
+this tool will install packages with in a new system.
+fix:
+	only support 32bit. 64bit will later.
