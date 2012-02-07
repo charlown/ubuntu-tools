@@ -33,7 +33,7 @@
 		<name>texlive-fonts-recommended</name>
 		<name>texlive-latex-extra</name>
 		<!--virtualbox-->
-		<name>virtualbox-ose</name>
+		<name>virtualbox-4.1</name>
 		<!--scm-->
 		<name>git-core</name>
 		<!--eclipse-->
@@ -96,6 +96,11 @@
 		<name>xsltproc</name>
 		<name>zlib1g-dev</name>
 		<name>zip</name>
+		<!--tizen os sdk need following packages-->
+		<name>qemu-kvm</name>
+		<name>binutils-multiarch</name>
+		<name>realpath</name>
+		<name>libsdl-gfx1.2-4</name>
 	</system>
 
 </install_list>
