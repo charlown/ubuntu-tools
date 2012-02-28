@@ -60,6 +60,8 @@
 		<name>tftp-hpa</name>
 		<!--analysis net packet-->
 		<name>wireshark</name>
+		<!--linux command calc-->
+		<name>apcalc</name>
 		<!--unkonwn,some used to android-->
 		<name>automake</name>
 		<name>bison</name>
