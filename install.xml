@@ -62,6 +62,9 @@
 		<name>wireshark</name>
 		<!--linux command calc-->
 		<name>apcalc</name>
+		<!--make menuconfig need the lib-->
+		<name>libncurses5-dev</name>
+		
 		<!--unkonwn,some used to android-->
 		<name>automake</name>
 		<name>bison</name>
